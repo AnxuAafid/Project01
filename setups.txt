@@ -1,0 +1,6 @@
+1. Set up github {Repository}
+	a) Environment --- conda create -p venev python==3.8 -y
+	 	1) Activate conda environment---- conda activate venv/
+	b) mini project Structure
+	c) setup.py
+	d) requirements.txt
